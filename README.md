@@ -7,7 +7,8 @@ Atualmente estou estagiando na extractoDAO e estudando para viver do mundo da te
 
 ## ✅ 𝗠inha abordagem esta ancorada em:
 
-- Desenvolvimento front-end.
+- Desenvolvimento Front-end.
+- Desenvolvimento Mobile.
 - Trabalho em equipe e colaboração.
 
 ## 👨‍🏭 Carreira:
@@ -29,6 +30,8 @@ Atualmente estou estagiando na extractoDAO e estudando para viver do mundo da te
 - Tailwind
 - JavaScript
 - TypeScript
+- ExpoGO
+- Mobile
 - HTML
 - CSS
 - Linux
