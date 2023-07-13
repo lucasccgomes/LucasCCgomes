@@ -24,8 +24,7 @@ Atualmente estou estagiando na extractoDAO e estudando para viver do mundo da te
 
 ## 🎯 𝗦𝗸𝗶𝗹𝗹𝘀:
 
-- ![image](https://github.com/lucasccgomes/LucasCCgomes/assets/101642200/e7edfc9a-d12c-4815-a9e4-1dd843daf0ca){:height="32px" width="32px"}
-Rect.js
+- Rect.js
 - Node.js
 - Next.js
 - Tailwind
