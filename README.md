@@ -18,9 +18,9 @@ Atualmente estou estagiando na extractoDAO e estudando para viver do mundo da te
 
 ## 👨‍🎓 Educação:
 
-- EdX - W3Cx JS JavaScript
-- EdX - HTML5 and CSS Fundamentals
-- EdX - CSS Basics
+- W3C - JS JavaScript
+- W3C - HTML5 and CSS Fundamentals
+- W3C - CSS Basics
 
 ## 🎯 𝗦𝗸𝗶𝗹𝗹𝘀:
 
