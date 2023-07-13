@@ -11,7 +11,7 @@ Atualmente estou estagiando na extractoDAO e estudando para viver do mundo da te
 - Desenvolvimento Mobile.
 - Trabalho em equipe e colaboração.
 
-## 👨‍🏭 Carreira:
+## 👨‍💼 Carreira:
 
 - Front end Developer [Extracto DAO](https://extractodao.com), um protocolo de mercado futuro de commodities descentralizado.
 
