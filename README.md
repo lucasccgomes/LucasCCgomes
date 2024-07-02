@@ -1,8 +1,5 @@
 # 🌎 Olá Mundo!
 
-🌎 Olá, mundo!
-
-Atualmente, completo um ano de estudo intensivo para me especializar como desenvolvedor mobile. Durante este período, me dediquei a adquirir habilidades e conhecimentos essenciais para criar soluções inovadoras e eficientes. Estou focado em aprender as tecnologias mais avançadas e as práticas mais atuais do mercado, visando não apenas acompanhar, mas antecipar as tendências da área.
 
 ## ✅ 𝗠inha abordagem esta ancorada em:
 
