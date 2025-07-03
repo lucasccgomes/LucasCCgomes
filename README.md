@@ -14,18 +14,26 @@ Desenvolvedor Front-end e Mobile com foco em criar soluções modernas, perform�
 
 ## 👨‍💼 Experiência
 
+- 🛠️ **LiraSystem – Soluções internas para Drogalira (2022–2024)**  
+  Desenvolvimento de uma suíte de sistemas internos para mais de 20 filiais:  
+  - Sistema de chamados técnicos com painel de controle  
+  - Monitoramento de servidores em tempo real  
+  - Automação de envio de áudios promocionais  
+  - Painel de rastreamento de documentos do RH  
+  Stack utilizada: **React.js**, **Firebase**, **Tailwind**, **Linux**, **Vite**, **Firestore**
+
 - 🪙 **Front-end Developer – [Extracto DAO](https://extractodao.com)**  
-  Plataforma DeFi de mercado futuro de commodities. Desenvolvimento com Next.js, Tailwind e integração com dados on-chain via GraphQL.
+  Plataforma DeFi de mercado futuro de commodities. Desenvolvimento com **Next.js**, **TailwindCSS** e integração com dados on-chain via **GraphQL**.
 
 - 📅 **Projeto pessoal – Plataforma de Agendamentos**  
   Aplicação full stack com **Next.js 15 + NestJS + PostgreSQL**, autenticação JWT e infraestrutura real com servidor físico exposto via **Cloudflare**.
 
 - 💼 **Projeto pessoal – Plataforma de Vagas de Emprego**  
-  Sistema completo onde **empresas podem cadastrar vagas** e **candidatos se inscrevem diretamente na plataforma**.  
-  Desenvolvido com **Next.js 15, Firebase Firestore, JWT**, autenticação por cookie e gestão de perfis com dashboard própria para cada tipo de usuário.
+  Sistema onde empresas cadastram vagas e candidatos se inscrevem diretamente na plataforma.  
+  Desenvolvido com **Next.js 15, Firebase Firestore, JWT**, autenticação via cookies e dashboards separados para empresa e candidato.
 
 - 🧠 **Projeto pessoal – Plataforma de Crowdfunding na Ethereum**  
-  Usuários cadastram projetos com metas de arrecadação em ETH. Outros podem contribuir com tokens, e os valores são liberados via **smart contract** quando a meta é atingida. Stack: **Hardhat, ethers.js, NestJS, Next.js**.
+  Usuários cadastram projetos com metas de arrecadação em ETH. Ao atingir a meta no prazo definido, os fundos são transferidos automaticamente via **smart contract**. Stack: **Hardhat, ethers.js, NestJS, Next.js**
 
 ---
 
@@ -60,7 +68,7 @@ Desenvolvedor Front-end e Mobile com foco em criar soluções modernas, perform�
 
 - ✉️ Email: lucasccgomes@protonmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucasccgomes)  
-- 💻 [Portfólio/Projetos](https://github.com/lucasccgomes)
+- 💻 [Portfólio/Projetos](https://lucasgomesdev.netlify.app/)
 
 ---
 
