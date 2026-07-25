@@ -15,7 +15,7 @@ Apaixonado por criar soluções que unem software, hardware e automação para r
 
 # 🚀 Sobre mim
 
-Atualmente atuo como **Help Desk N2 na G4F**, oferecendo suporte para ambientes críticos do Governo do Estado de São Paulo (**PRODESP, Poupatempo e Detran**).
+Atualmente atuo como **Help Desk N2 na G4F**, oferecendo suporte para ambientes críticos do Governo do Estado de São Paulo (**PRODESP, MP, Poupatempo e Detran**).
 
 Além da atuação em infraestrutura, desenvolvo soluções internas voltadas à automação de processos e produtividade, criando aplicações utilizadas diariamente pelos técnicos de campo.
 
