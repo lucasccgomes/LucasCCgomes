@@ -165,21 +165,11 @@ Sistema desenvolvido na Ciser para localização em tempo real de materiais.
 
 ---
 
-# 📊 GitHub em Números
+# 📊 GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lucasccgomes&theme=tokyonight&hide_border=true"/>
-
-<br>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasccgomes&theme=tokyonight"/>
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasccgomes&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasccgomes&theme=tokyonight"/>
 
 </div>
 
