@@ -207,6 +207,4 @@ https://www.linkedin.com/in/lucasccgomes
 
 ## ⭐ "Tecnologia é mais do que código. É transformar problemas em soluções."
 
-Se algum projeto chamou sua atenção, fique à vontade para explorar meus repositórios ou entrar em contato.
-
 </div>
