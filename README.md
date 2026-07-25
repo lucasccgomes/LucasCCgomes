@@ -166,18 +166,23 @@ Aplicativo desenvolvido para localização em tempo real de materiais na Ciser.
 
 ---
 
-# 📈 GitHub
+# 📊 Estatísticas do GitHub
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasccgomes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasccgomes&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=lucasccgomes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=lucasccgomes&theme=tokyonight&hide_border=true"/>
-</p>
+<br><br>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasccgomes&theme=tokyonight" alt="Profile Details"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasccgomes&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasccgomes&theme=tokyonight" />
+
+</div>
 ---
 
 # 📫 Contato
