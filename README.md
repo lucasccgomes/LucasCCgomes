@@ -7,7 +7,7 @@
 Apaixonado por criar soluções que unem software, hardware e automação para resolver problemas reais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucasccgomes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://lucasgomesdev.netlify.app/)
+
 [![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail)](mailto:lucasccgomes@protonmail.com)
 
 </div>
