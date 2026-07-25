@@ -1,74 +1,70 @@
-# 👋 Olá! Eu sou Lucas
+# 👋 Olá! Eu sou Lucas Oliveira
 
-Desenvolvedor Full Stack apaixonado por tecnologia, automação e criação de soluções que resolvem problemas reais.
+<div align="center">
 
-Atualmente atuo como **Help Desk N2 na G4F**, onde além do suporte para ambientes críticos do Governo do Estado de São Paulo (PRODESP, Poupatempo e Detran), desenvolvo soluções internas que automatizam processos e aumentam a produtividade da equipe.
+Desenvolvedor **Full Stack** | Infraestrutura | Automação | Mobile | Impressão 3D
 
-Sou movido pela curiosidade. Sempre estou desenvolvendo novos projetos, seja para empresas, para minha casa ou para aprender novas tecnologias. Gosto de transformar ideias em soluções utilizando software, hardware, eletrônica e impressão 3D.
+Apaixonado por criar soluções que resolvem problemas reais utilizando software, hardware e automação.
+
+</div>
 
 ---
 
-# 🚀 Atualmente trabalhando com
+## 🚀 Sobre mim
 
-- 💻 Desenvolvimento Web Full Stack
-- 📱 Desenvolvimento Mobile
-- ⚙️ Automação de Processos
-- ☁️ Infraestrutura
-- 🖨️ Impressão 3D
-- 🤖 Automação Residencial
-- 🔌 Eletrônica com Arduino
-- 🐧 Linux e Docker
+Atualmente atuo como **Help Desk N2 na G4F**, prestando suporte a ambientes críticos do Governo do Estado de São Paulo (PRODESP, Poupatempo e Detran).
+
+Além do suporte técnico, desenvolvo soluções internas que automatizam processos e aumentam a produtividade dos técnicos de campo.
+
+Tenho experiência prática em desenvolvimento Full Stack, infraestrutura, Docker, APIs, OCR, integração com Google Maps, aplicações mobile e sistemas utilizados diariamente por empresas.
+
+Sempre estou aprendendo novas tecnologias e desenvolvendo projetos que unem programação, eletrônica, automação residencial e impressão 3D.
 
 ---
 
 # 💼 Experiência
 
-## 🏛️ G4F
+## 🏛️ G4F — Help Desk N2
 
-**Help Desk N2**
+Suporte para ambientes críticos do Governo do Estado de São Paulo.
 
-Suporte técnico para ambientes críticos do Governo do Estado de São Paulo.
+### 🚀 Projeto em destaque — Field Desk
 
-### Projeto de destaque
+Plataforma desenvolvida para gerenciamento operacional de técnicos de campo.
 
-### 🚀 Field Desk
+### Principais recursos
 
-Idealização e desenvolvimento completo de uma plataforma utilizada pelos técnicos de campo.
-
-Principais funcionalidades
-
-- Gestão de chamados
-- OCR
-- Google Maps
-- Controle de rotas
-- Dashboard
-- Controle de despesas
-- Geração automática de planilhas
-- PWA Offline
-- SQLite
-- Docker
-- APIs REST
+- 📋 Gestão de chamados
+- 📍 Google Maps API
+- 🤖 OCR
+- 📊 Dashboard
+- 🛣️ Controle de rotas
+- 💰 Controle de despesas
+- 📄 Geração automática de planilhas
+- 📱 Progressive Web App (PWA)
+- 🗄️ SQLite
+- 🐳 Docker
+- 🔗 APIs REST
 
 ---
 
-## 💊 Rede Drogalira
+## 💊 Rede Drogalira — Analista de Sistemas
 
-Analista de Sistemas
+Desenvolvimento de soluções corporativas para mais de 20 lojas.
 
-Desenvolvimento de soluções internas como
+Projetos desenvolvidos
 
 - Sistema de Chamados
 - Sistema de Monitoramento
 - Rastreamento de Documentos
-- Painel de Áudios Promocionais
+- Gestão de Áudios Promocionais
+- Automação de processos internos
 
 ---
 
-## 🌱 Extracto DAO
+## 🌱 Extracto DAO — Front-end Developer
 
-Front-end Developer
-
-Desenvolvimento utilizando React, Next.js e Tailwind.
+Desenvolvimento utilizando React, Next.js e Tailwind CSS.
 
 Também desenvolvi uma automação em Python responsável pela atualização automática da cotação do boi gordo.
 
@@ -76,49 +72,48 @@ Também desenvolvi uma automação em Python responsável pela atualização aut
 
 # 🛠️ Tecnologias
 
-## Front-end
+### Front-end
 
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite"/>
+</p>
 
-## Mobile
+### Mobile
 
-![React Native](https://skillicons.dev/icons?i=react)
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
+</p>
 
 React Native • Expo
 
-## Back-end
+### Back-end
 
-![Node](https://skillicons.dev/icons?i=nodejs,nestjs)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+</p>
 
-## Banco de Dados
+### Banco de Dados
 
-![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase)
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,firebase"/>
+</p>
 
-## Infraestrutura
+### Infraestrutura
 
-![Infra](https://skillicons.dev/icons?i=docker,linux,nginx,git,github)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,cloudflare"/>
+</p>
 
-## Ferramentas
+### Ferramentas
 
 - Google Maps API
 - OCR
-- Cloudflare
-- Vercel
-- Figma
-- PWA
 - REST APIs
-
----
-
-# 🧠 Atualmente estudando
-
-- 🎓 Bacharelado em Sistemas de Informação
-- 🤖 Inteligência Artificial
-- ☁️ Docker
-- 🔐 Segurança da Informação
-- 🖨️ Impressão 3D
-- 🔌 Arduino
-- ⚡ Home Assistant
+- PWA
+- Docker
+- Figma
+- Vercel
+- Cloudflare Tunnel
 
 ---
 
@@ -128,29 +123,59 @@ React Native • Expo
 
 Sistema completo para gestão operacional de técnicos de campo.
 
+**Stack**
+
+Next.js • Node.js • SQLite • Docker • OCR • Google Maps • PWA
+
+---
+
 ### 📱 Fluent
 
-Frontend em React Native para aplicativo de aprendizado de idiomas.
+Frontend desenvolvido em React Native para plataforma de aprendizado de idiomas.
+
+---
 
 ### 💼 Sistema de Chamados
 
-Sistema corporativo para gerenciamento de incidentes.
+Sistema corporativo para gerenciamento de incidentes e suporte técnico.
+
+---
 
 ### 📊 Monitoramento de Servidores
 
 Monitoramento em tempo real com notificações automáticas.
 
-### 🗺️ Aplicativo de Controle de Estoque
+---
 
-Sistema desenvolvido na Ciser para localização em tempo real de materiais.
+### 🗺️ Controle Inteligente de Estoque
+
+Aplicativo desenvolvido para localização em tempo real de materiais na Ciser.
 
 ---
 
-# 📈 GitHub Stats
+# 📚 Atualmente estudando
+
+- 🎓 Sistemas de Informação
+- 🤖 Inteligência Artificial
+- ☁️ Docker
+- 🔐 Segurança da Informação
+- 🖨️ Impressão 3D
+- ⚡ Home Assistant
+- 🔌 Arduino
+- 🏗️ Arquitetura de Software
+
+---
+
+# 📈 GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasccgomes&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasccgomes&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasccgomes&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasccgomes&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=lucasccgomes&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -159,10 +184,16 @@ Sistema desenvolvido na Ciser para localização em tempo real de materiais.
 
 📧 **lucasccgomes@protonmail.com**
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/lucasccgomes
 
 ---
 
-> _"Tecnologia é mais do que código. É encontrar problemas e construir soluções."_
+<div align="center">
+
+> **"Tecnologia é mais do que código. É transformar problemas em soluções."**
+
+⭐ Se algum projeto chamou sua atenção, fique à vontade para explorar meus repositórios!
+
+</div>
