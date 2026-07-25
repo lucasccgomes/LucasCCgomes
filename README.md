@@ -199,10 +199,6 @@ Sistema desenvolvido na Ciser para localização em tempo real de materiais.
 
 https://www.linkedin.com/in/lucasccgomes
 
-🌐 **Portfólio**
-
-https://lucasgomesdev.netlify.app/
-
 </div>
 
 ---
