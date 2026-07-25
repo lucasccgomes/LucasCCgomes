@@ -149,8 +149,8 @@ Sistema desenvolvido na Ciser para localização em tempo real de materiais.
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasccgomes&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasccgomes&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -162,10 +162,6 @@ Sistema desenvolvido na Ciser para localização em tempo real de materiais.
 💼 LinkedIn
 
 https://www.linkedin.com/in/lucasccgomes
-
-🌐 Portfólio
-
-https://lucasgomesdev.netlify.app/
 
 ---
 
